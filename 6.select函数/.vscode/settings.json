@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "signum.h": "c",
+        "sigaction.h": "c"
+    }
+}
